@@ -1,5 +1,5 @@
 $(function(){
-  $('.promoted-tweet').each(function(i){
+  $('.promoted-tweet, .promoted-account').each(function(i){
     $(this).hide();
   });    
 });
